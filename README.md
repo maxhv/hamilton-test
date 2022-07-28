@@ -1,13 +1,14 @@
 ## Project info
 Name: Max Khvishchuk
 
-Project title: hamilton-test
+Project title: marvel-api-test
 
 Dependencies: described in package.json
 
 How to install: use `yarn` command
 
 Steps on how to build and run the application:
+ - register on https://developer.marvel.com and get an public API key
  - add your Marvel API public key to `src/api`
  - set `*` for available domains for your Marvel API account
  - use `yarn start` command locally
